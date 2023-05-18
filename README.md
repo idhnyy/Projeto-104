@@ -1,3 +1,3 @@
 # Projeto-104
 
-☪▫Nomeando os astros do sistema solar usando OpenCV (Pyhton)
+☪▫Nomeando os astros do sistema solar usando OpenCV (Python)
